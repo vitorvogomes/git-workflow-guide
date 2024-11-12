@@ -111,7 +111,6 @@
 - **`git stash pop`**  
   Restaura as alterações salvas no stash.
 
-## **Comandos Não Documentados**
 - **`git restore --staged <file>`**  
   Remove um arquivo específico da área de staging, mas mantém as alterações locais.
 
